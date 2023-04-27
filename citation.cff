@@ -1,0 +1,7 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pandey"
+  given-names: "Ravindra"
+title: "machine_learning_projects"
+date-released: 2023-04-27
+url: "https://github.com/ravindra-pandey/machine_learning_projects"
