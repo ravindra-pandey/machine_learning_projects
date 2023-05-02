@@ -1,9 +1,15 @@
 # Motion Recognition 
+
 This is a project in which i have developed a neural network model based on sensor data which can recognize the type of activity you are doing .
-* Sensors Used
-*    Gravity
-*    Accelorometer
-*    Gyroscope
+
+### Sensors Used
+
+* Gravity
+* Accelorometer
+* Gyroscope
+--------
+
+![Image](https://github.com/ravindra-pandey/machine_learning_projects/blob/main/repo_images/motion_recognition_graph.png?raw=true)
 --------
 
 ## refrences
